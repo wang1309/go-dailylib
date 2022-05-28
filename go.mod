@@ -8,6 +8,7 @@ require (
 	github.com/colinmarc/hdfs v1.1.3 // indirect
 	github.com/glycerine/truepack v0.0.0-20171113054516-e3f6c9bc15a7 // indirect
 	github.com/guptarohit/asciigraph v0.5.5
+	github.com/kamildrazkiewicz/go-flow v0.0.0-20170919072006-2a1d885f8ce4
 	github.com/klauspost/compress v1.10.5
 	github.com/marusama/cyclicbarrier v1.1.0
 	github.com/philhofer/fwd v1.1.1 // indirect

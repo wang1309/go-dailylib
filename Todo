@@ -16,15 +16,15 @@ https://github.com/go-swagger/go-swagger
 https://github.com/jinzhu/now
 
 
+// Done
 // 没有其他依赖的可以在命令行应用中制作轻量级的ASCII行图┈┈╭╯的go语言工具包
 https://github.com/guptarohit/asciigraph
 
-// 易于使用的可扩展的分布式大数据处理、Map-Reduce、DAG执行,全部用纯Go编写。
-https://github.com/chrislusf/glow
-
+// Done
 // 快速、可扩展的分布式 map/reduce 系统,使用纯 Go 语言和 Luajit 编写,融合了 Go 语言的高并发能力和 Luajit 的高性能,可以独立或分布式部署运行
 https://github.com/chrislusf/gleam
 
+// Done
 // golang的CyclicBarrier。
 // http://qiuwenqi.com/2020-11-18-golang-concurrency-cyclicbarrir.html
 https://github.com/marusama/cyclicbarrier
