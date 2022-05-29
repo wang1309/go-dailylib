@@ -20,8 +20,10 @@ require (
 	github.com/marusama/cyclicbarrier v1.1.0
 	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/scritchley/orc v0.0.0-20210513144143-06dddf1ad665 // indirect
+	github.com/spf13/cast v1.5.0
 	github.com/stretchr/testify v1.7.1 // indirect
 	go.uber.org/zap v1.21.0 // indirect
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 	google.golang.org/grpc v1.27.1
 	gopkg.in/ini.v1 v1.66.4
 )
