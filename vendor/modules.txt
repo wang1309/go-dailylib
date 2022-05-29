@@ -117,6 +117,9 @@ github.com/coreos/go-systemd/journal
 # github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f
 ## explicit
 github.com/coreos/pkg/capnslog
+# github.com/fsnotify/fsnotify v1.5.4
+## explicit
+github.com/fsnotify/fsnotify
 # github.com/glycerine/truepack v0.0.0-20171113054516-e3f6c9bc15a7
 ## explicit
 github.com/glycerine/truepack/msgp
@@ -243,7 +246,7 @@ golang.org/x/oauth2/google
 golang.org/x/oauth2/internal
 golang.org/x/oauth2/jws
 golang.org/x/oauth2/jwt
-# golang.org/x/sys v0.0.0-20210510120138-977fb7262007
+# golang.org/x/sys v0.0.0-20220412211240-33da011f77ad
 golang.org/x/sys/execabs
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
