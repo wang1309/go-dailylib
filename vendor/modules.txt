@@ -185,6 +185,9 @@ github.com/scritchley/orc/proto
 github.com/spf13/cast
 # github.com/stretchr/testify v1.7.1
 ## explicit
+# github.com/vardius/message-bus v1.1.5
+## explicit
+github.com/vardius/message-bus
 # github.com/xitongsys/parquet-go v1.5.4
 github.com/xitongsys/parquet-go/common
 github.com/xitongsys/parquet-go/compress
