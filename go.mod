@@ -14,6 +14,7 @@ require (
 	github.com/glycerine/truepack v0.0.0-20171113054516-e3f6c9bc15a7 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/uuid v1.3.0 // indirect
+	github.com/google/wire v0.5.0
 	github.com/guptarohit/asciigraph v0.5.5
 	github.com/kamildrazkiewicz/go-flow v0.0.0-20170919072006-2a1d885f8ce4
 	github.com/klauspost/compress v1.10.5
