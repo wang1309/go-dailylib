@@ -16,6 +16,7 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/google/wire v0.5.0
 	github.com/guptarohit/asciigraph v0.5.5
+	github.com/imdario/mergo v0.3.13
 	github.com/kamildrazkiewicz/go-flow v0.0.0-20170919072006-2a1d885f8ce4
 	github.com/klauspost/compress v1.10.5
 	github.com/marusama/cyclicbarrier v1.1.0
