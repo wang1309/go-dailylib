@@ -182,6 +182,9 @@ github.com/klauspost/compress/zstd/internal/xxhash
 # github.com/marusama/cyclicbarrier v1.1.0
 ## explicit
 github.com/marusama/cyclicbarrier
+# github.com/mitchellh/mapstructure v1.5.0
+## explicit
+github.com/mitchellh/mapstructure
 # github.com/philhofer/fwd v1.1.1
 ## explicit
 github.com/philhofer/fwd

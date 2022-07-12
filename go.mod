@@ -21,6 +21,7 @@ require (
 	github.com/kamildrazkiewicz/go-flow v0.0.0-20170919072006-2a1d885f8ce4
 	github.com/klauspost/compress v1.10.5
 	github.com/marusama/cyclicbarrier v1.1.0
+	github.com/mitchellh/mapstructure v1.5.0
 	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/scritchley/orc v0.0.0-20210513144143-06dddf1ad665 // indirect
 	github.com/spf13/cast v1.5.0
